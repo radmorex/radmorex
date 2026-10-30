@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 56" width="850" height="56" role="img" aria-label="Stats">
-  <defs>
-    <linearGradient id="l"><stop offset="0" stop-color="#d73a49" stop-opacity="0"/><stop offset="1" stop-color="#d73a49"/></linearGradient>
-    <linearGradient id="r"><stop offset="0" stop-color="#d73a49"/><stop offset="1" stop-color="#d73a49" stop-opacity="0"/></linearGradient>
-  </defs>
-  <rect x="60" y="27" width="255" height="1.5" fill="url(#l)"/>
-  <rect x="535" y="27" width="255" height="1.5" fill="url(#r)"/>
-  <text x="425" y="35" text-anchor="middle" fill="#f0f6fc" font-size="20" font-weight="600" letter-spacing="5" font-family="Hiragino Sans, Noto Sans CJK JP, Yu Gothic, Helvetica Neue, Arial, sans-serif">統計 <tspan fill="#6e7681" font-size="13" font-weight="400">STATS</tspan></text>
-</svg>

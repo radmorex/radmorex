@@ -25,7 +25,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d.json
-      - run: mkdir site && cp dist/*.svg profile-3d-contrib/*.svg site/
+      - run: python3 scripts/stats.py "$GITHUB_REPOSITORY_OWNER" stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: mkdir site && cp dist/*.svg profile-3d-contrib/*.svg stats.svg site/
       - uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4.2.0
         with:
           target_branch: output

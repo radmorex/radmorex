@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" width="500" height="220" role="img" aria-label="Ctrl+C, Ctrl+V, pray.">
+  <style>
+    .word { font: 700 36px "Helvetica Neue", Arial, sans-serif; letter-spacing: 8px; text-anchor: middle; fill: #f0f6fc; }
+    .jp { font: 400 14px "Hiragino Sans", "Noto Sans CJK JP", "Yu Gothic", sans-serif; letter-spacing: 8px; text-anchor: middle; fill: #8b949e; }
+    .rule { stroke: #d73a49; stroke-width: 2; }
+  </style>
+  <text class="word" x="250" y="50">CTRL+C</text>
+  <text class="word" x="250" y="96">CTRL+V</text>
+  <text class="word" x="250" y="142">PRAY</text>
+  <line class="rule" x1="130" y1="164" x2="370" y2="164"/>
+  <text class="jp" x="250" y="196">コピペして祈る</text>
+</svg>

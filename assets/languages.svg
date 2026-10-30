@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 150" width="850" height="150" role="img" aria-label="Python, Rust">
+  <style>
+    .word { font: 700 42px "Helvetica Neue", Arial, sans-serif; letter-spacing: 10px; text-anchor: middle; fill: #f0f6fc; }
+    .jp { font: 400 14px "Hiragino Sans", "Noto Sans CJK JP", "Yu Gothic", sans-serif; letter-spacing: 8px; text-anchor: middle; fill: #8b949e; }
+    .rule { stroke: #d73a49; stroke-width: 2; }
+  </style>
+  <text class="word" x="225" y="70">PYTHON</text>
+  <line class="rule" x1="115" y1="90" x2="335" y2="90"/>
+  <text class="jp" x="225" y="122">パイソン</text>
+  <text class="word" x="625" y="70">RUST</text>
+  <line class="rule" x1="535" y1="90" x2="715" y2="90"/>
+  <text class="jp" x="625" y="122">ラスト</text>
+</svg>

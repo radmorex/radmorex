@@ -5,9 +5,6 @@
     .main { fill: #f0f6fc; }
     .glitch-r { fill: #d73a49; animation: glitch 5s steps(1) infinite; }
     .glitch-g { fill: #8b949e; animation: glitch 5s steps(1) infinite reverse; }
-    .rain line { stroke: #f0f6fc; stroke-width: 1; opacity: .12; animation: fall 3.2s linear infinite; }
-    .rain line:nth-child(2n) { animation-duration: 2.3s; animation-delay: -1s; }
-    .rain line:nth-child(3n) { animation-duration: 4.1s; animation-delay: -2.2s; }
     .slash { stroke: #d73a49; stroke-width: 2; stroke-dasharray: 300; animation: draw 5s ease-in-out infinite; }
     @keyframes glitch {
       0%, 86%, 100% { transform: translate(0, 0); opacity: 0; }
@@ -16,23 +13,16 @@
       93% { transform: translate(-3px, 0); opacity: .9; }
       96% { transform: translate(0, 0); opacity: 0; }
     }
-    @keyframes fall { from { transform: translateY(-60px); } to { transform: translateY(230px); } }
     @keyframes draw {
       0% { stroke-dashoffset: 300; }
       25%, 80% { stroke-dashoffset: 0; }
       100% { stroke-dashoffset: -300; }
     }
     @media (prefers-reduced-motion: reduce) {
-      .glitch-r, .glitch-g, .rain line, .slash { animation: none; }
+      .glitch-r, .glitch-g, .slash { animation: none; }
       .glitch-r, .glitch-g { opacity: 0; }
     }
   </style>
-  <g class="rain">
-    <line x1="60" y1="0" x2="60" y2="40"/><line x1="145" y1="0" x2="145" y2="28"/><line x1="230" y1="0" x2="230" y2="46"/>
-    <line x1="318" y1="0" x2="318" y2="30"/><line x1="402" y1="0" x2="402" y2="38"/><line x1="486" y1="0" x2="486" y2="26"/>
-    <line x1="570" y1="0" x2="570" y2="44"/><line x1="655" y1="0" x2="655" y2="32"/><line x1="735" y1="0" x2="735" y2="42"/>
-    <line x1="805" y1="0" x2="805" y2="24"/>
-  </g>
   <text class="name glitch-r" x="425" y="100">BROSHEN</text>
   <text class="name glitch-g" x="425" y="100">BROSHEN</text>
   <text class="name main" x="425" y="100">BROSHEN</text>
