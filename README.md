@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <img height="290" src="https://nekos.best/api/v2/husbando/240fec18-40b9-443e-8c41-833db01414e1.png" alt="anime art" />
-  <img height="290" src="https://nekos.best/api/v2/husbando/75490a8a-8110-42b9-a4ae-40f33dbaefde.png" alt="anime art" />
-  <img height="290" src="https://nekos.best/api/v2/husbando/7b5bce70-e839-4688-88c9-ada40b1e7ed8.png" alt="anime art" />
-  <img height="290" src="https://nekos.best/api/v2/husbando/f98ab3a4-d32d-41c5-a052-4710660c71c9.png" alt="anime art" />
+  <img height="250" src="https://nekos.best/api/v2/husbando/240fec18-40b9-443e-8c41-833db01414e1.png" alt="anime art" />
+  <img height="250" src="https://nekos.best/api/v2/husbando/75490a8a-8110-42b9-a4ae-40f33dbaefde.png" alt="anime art" />
+  <img height="250" src="https://nekos.best/api/v2/husbando/7b5bce70-e839-4688-88c9-ada40b1e7ed8.png" alt="anime art" />
+  <img height="250" src="https://nekos.best/api/v2/husbando/f98ab3a4-d32d-41c5-a052-4710660c71c9.png" alt="anime art" />
 </p>
 
 ---
