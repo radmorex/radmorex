@@ -1,9 +1,13 @@
 <p align="center">
-  <img height="420" src="https://nekos.best/api/v2/waifu/f27c66a5-35a4-47ed-b11e-a0a275518b16.png" alt="anime art" />
+  <img width="100%" src="assets/header.svg" alt="Broshen" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=20&pause=1600&color=9DB4E8&center=true&vCenter=true&width=480&lines=%E7%A7%81%E3%81%AE%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%A7%E3%81%AF%E5%8B%95%E3%81%8F;%E3%82%B3%E3%83%94%E3%83%9A%E3%81%97%E3%81%A6%E7%A5%88%E3%82%8B" alt="It works on my machine. Copy, paste, pray." />
+  <img height="460" src="https://nekos.best/api/v2/husbando/75490a8a-8110-42b9-a4ae-40f33dbaefde.png" alt="anime art" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=400&size=18&pause=1800&color=C9D1D9&center=true&vCenter=true&width=480&lines=%E3%82%B3%E3%83%94%E3%83%9A%E3%81%97%E3%81%A6%E7%A5%88%E3%82%8B;Python%E3%81%A8Rust%E3%81%A0%E3%81%91" alt="Copy, paste, pray. Only Python and Rust." />
 </p>
 
 <p align="center">
@@ -15,5 +19,5 @@
 </p>
 
 <p align="center">
-  <sub>art: <a href="https://twitter.com/Torikago_Sekai/status/2057778502699458621">プラスマイナスゼロ</a></sub>
+  <sub>art: <a href="https://twitter.com/gearous/status/1346784766608097280">GEAROUS</a></sub>
 </p>
