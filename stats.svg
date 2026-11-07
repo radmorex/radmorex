@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 150" width="850" height="150" role="img" aria-label="contributions: 0, commits: 0, streak: 0, stars: 0">
+  <style>
+    .num { font: 700 42px "Helvetica Neue", Arial, sans-serif; letter-spacing: 4px; text-anchor: middle; fill: #f0f6fc; }
+    .en { font: 400 11px "Helvetica Neue", Arial, sans-serif; letter-spacing: 3px; text-anchor: middle; fill: #6e7681; }
+    .jp { font: 400 14px "Hiragino Sans", "Noto Sans CJK JP", "Yu Gothic", sans-serif; letter-spacing: 6px; text-anchor: middle; fill: #8b949e; }
+    .rule { stroke: #d73a49; stroke-width: 2; }
+  </style>
+  <text class="num" x="125" y="60">0</text>
+  <line class="rule" x1="55" y1="78" x2="195" y2="78"/>
+  <text class="jp" x="125" y="106">貢献</text>
+  <text class="en" x="125" y="128">CONTRIBUTIONS</text>
+  <text class="num" x="325" y="60">0</text>
+  <line class="rule" x1="255" y1="78" x2="395" y2="78"/>
+  <text class="jp" x="325" y="106">コミット</text>
+  <text class="en" x="325" y="128">COMMITS</text>
+  <text class="num" x="525" y="60">0</text>
+  <line class="rule" x1="455" y1="78" x2="595" y2="78"/>
+  <text class="jp" x="525" y="106">連続</text>
+  <text class="en" x="525" y="128">STREAK</text>
+  <text class="num" x="725" y="60">0</text>
+  <line class="rule" x1="655" y1="78" x2="795" y2="78"/>
+  <text class="jp" x="725" y="106">星</text>
+  <text class="en" x="725" y="128">STARS</text>
+</svg>
